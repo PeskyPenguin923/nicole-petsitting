@@ -5,3 +5,42 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
 }
+
+.heading {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: space-around;
+  height: 200px;
+}
+
+.service-container {
+  display: flex;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.services {
+  display:flex;
+  justify-content: space-around;
+}
+
+.rates-container {
+  display:flex;
+}
+
+.rates {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-container {
+  display: flex;
+}
