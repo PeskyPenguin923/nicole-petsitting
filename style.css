@@ -24,6 +24,7 @@ body {
   border-style: solid;
   border-size: 2px;
   border-color: black;
+  margin: 20px;
 }
 
 .header {
@@ -41,6 +42,7 @@ body {
   border-style: solid;
   border-size: 2px;
   border-color: black;
+  margin: 20px;
 }
 
 .rates {
@@ -53,4 +55,9 @@ body {
   border-style: solid;
   border-size: 2px;
   border-color: black;
+  margin: 20px:
 }
+
+.contact-info {
+  display:flex;
+  align-items: center;
