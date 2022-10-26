@@ -18,8 +18,8 @@ body {
   justify-content: space-around;
   height: 200px;
   background-color: #87b7a7;
-  border-styler: solid;
-  border-sice 2px;
+  border-style: solid;
+  border-size 2px;
   border-color: black;
   margin: 20px;
 }
