@@ -19,6 +19,10 @@ body {
   background-color: #87b7a7;
 }
 
+.image {
+  height: 180px;
+  width: auto;
+
 .services-container {
   background-color: #87b7a7;
   border-style: solid;
