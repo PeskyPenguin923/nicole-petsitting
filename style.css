@@ -8,7 +8,7 @@ body {
 
 .heading {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   height: 50px;
   margin: 10px;
 }
@@ -19,7 +19,7 @@ body {
   height: 200px;
   background-color: #87b7a7;
   border-style: solid;
-  border-size 2px;
+  border-width: 2px;
   border-color: black;
   margin: 20px;
 }
@@ -32,7 +32,7 @@ body {
 .services-container {
   background-color: #87b7a7;
   border-style: solid;
-  border-size: 2px;
+  border-width: 2px;
   border-color: black;
   margin: 20px;
 }
@@ -43,6 +43,22 @@ body {
   border-bottom: solid;
 }
 
+.rate-specific {
+  background-color: #76b19d;
+  width: 350px;
+  border-left: solid;
+  border-right: solid;
+}
+
+.rate-specific, p {
+  padding: 5px;
+}
+
+.header-inside {
+  display: flex;
+  justify-content: center;
+}
+
 .services {
   display:flex;
   justify-content: space-around;
@@ -51,22 +67,22 @@ body {
 .rates-container {
   background-color: #87b7a7;
   border-style: solid;
-  border-size: 2px;
+  border-width: 2px;
   border-color: black;
   margin: 20px;
 }
 
 .rates {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .contact-container {
   background-color: #87b7a7;
   border-style: solid;
-  border-size: 2px;
+  border-width: 2px;
   border-color: black;
-  margin: 20px:
+  margin: 20px;
 }
 
 .contact-info {
