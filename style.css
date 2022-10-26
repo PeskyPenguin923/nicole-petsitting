@@ -18,10 +18,6 @@ body {
   height: 200px;
 }
 
-.service-container {
-  display: flex;
-}
-
 .header {
   display: flex;
   justify-content: center;
@@ -32,15 +28,7 @@ body {
   justify-content: space-around;
 }
 
-.rates-container {
-  display:flex;
-}
-
 .rates {
   display: flex;
   justify-content: space-around;
-}
-
-.contact-container {
-  display: flex;
 }
