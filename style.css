@@ -1,6 +1,6 @@
 body {
   color: black;
-  background-color: #9ff0d5;
+  background-color: #d1f4ee;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
@@ -16,6 +16,7 @@ body {
   display: flex;
   justify-content: space-around;
   height: 200px;
+  background-color: 
 }
 
 .header {
