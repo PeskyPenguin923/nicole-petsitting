@@ -26,7 +26,8 @@ body {
 
 .image {
   height: 180px;
-  width: auto;
+  width: 250px;
+  margin: 10px;
 }
 
 .services-container {
